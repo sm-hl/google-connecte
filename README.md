@@ -9,7 +9,7 @@ Ce projet a été développé pour reproduire l'apparence de la page de recherch
 
 ## Captures d'écran
 
-![Capture d'écran de la page d'accueil](https://drive.google.com/file/d/1gduYJm4cttyqDSiaXsSqzCVCiYT9JrVU/view?usp=sharing)
+![Capture d'écran de la page d'accueil](./img/google-connecte.png)
 
 ## Comment utiliser
 
